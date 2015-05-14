@@ -1,6 +1,6 @@
 ## Simple Sentiment Analysis application
 
-![Travis Badge](https://travis-ci.org/robinbobbitt/SentimentAnalysis.svg?branch=master)
+[![Build Status](https://travis-ci.org/robinbobbitt/SentimentAnalysis.svg?branch=master)](https://travis-ci.org/robinbobbitt/SentimentAnalysis)
 
 Sample application demonstrating how to build a sentiment analysis app usind Node.js and a couple modules.  
 The application takes a keyword or hashtag, connects to Twitter to get a stream of matching tweets, 
