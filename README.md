@@ -1,6 +1,6 @@
 ## Simple Sentiment Analysis application
 
-![Ambivalent Smiley](http://simplesentimentanalysis.ng.bluemix.net/images/content.png "Ambivalent Smiley")
+![Travis Badge](https://travis-ci.org/robinbobbitt/SentimentAnalysis.svg?branch=master)
 
 Sample application demonstrating how to build a sentiment analysis app usind Node.js and a couple modules.  
 The application takes a keyword or hashtag, connects to Twitter to get a stream of matching tweets, 
